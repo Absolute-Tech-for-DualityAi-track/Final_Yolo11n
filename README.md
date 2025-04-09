@@ -17,6 +17,11 @@ Advanced implementation of YOLOv11n object detection model with:
 
 ## 🚀 Quick Start
 
+
+## 📄 Project Report
+- You can read the full technical report [here](./DualityAi_AbsoluteTech.pdf).
+
+
 ### Prerequisites
 - Python 3.8+
 - CUDA-capable GPU
@@ -102,10 +107,6 @@ YOLOv11n Structure:
 - Custom warmup strategy
 - Early stopping (patience=100)
 - Deterministic training
-
-## 📄 Project Report
-
-You can read the full technical report [here](./DualityAi_AbsoluteTech.pdf).
 
 
 ### Optimization Techniques
