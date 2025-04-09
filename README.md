@@ -15,11 +15,12 @@ Advanced implementation of YOLOv11n object detection model with:
 - Real-time inference (30+ FPS)
 - Optimized architecture (3M parameters)
 
-## 🚀 Quick Start
-
-
 ## 📄 Project Report
-- You can read the full technical report [here](./DualityAi_AbsoluteTech.pdf).
+You can read the full technical report [here](./DualityAi_AbsoluteTech.pdf).
+
+
+
+## 🚀 Quick Start
 
 
 ### Prerequisites
