@@ -59,6 +59,7 @@ python predict.py
 | Parameters | 3,011,043 |
 | GFLOPs | 8.2 |
 
+```
 ## 🏗️ Project Structure
 
 Final_Yolo11n/
