@@ -103,6 +103,11 @@ YOLOv11n Structure:
 - Early stopping (patience=100)
 - Deterministic training
 
+## 📄 Project Report
+
+You can read the full technical report [here](./DualityAi_AbsoluteTech.pdf).
+
+
 ### Optimization Techniques
 - AdamW optimizer
 - Learning rate scheduling
@@ -121,11 +126,6 @@ python train.py --epochs 500 --batch-size 50 --imgsz 640
 python predict.py --source path/to/images --conf 0.5
 ```
 
-## 📝 License
-This project is licensed under the MIT License.
-
-## 📧 Contact
-For questions and feedback, please open an issue in the GitHub repository.
 
 ---
 <p align="center">
